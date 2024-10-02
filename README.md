@@ -5,8 +5,7 @@
 
 Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on web development
-- 🌱 I’m currently learning Mysql
-- 📫 How to reach me: christinekimani881@gmail.com
-- ⚡ Fun fact: Love is Like Skydiving
+- 🔭 I’m currently working on software development
+- 📫 christinekimani881@gmail.com
+- ⚡ Love is Like Skydiving
 
