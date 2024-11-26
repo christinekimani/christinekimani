@@ -5,6 +5,6 @@
 
 Here are some ideas to get you started:-->
 
-- 🔭 Hi, I'm Christine! I'm a student currently diving into Flutter, Dart, and web development. With a background in MySQL,
+- 🔭  I'm currently diving into Flutter, Dart, and web development. With a background in MySQL,
 - 📫 christinekimani881@gmail.com
 
